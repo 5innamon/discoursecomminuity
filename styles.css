@@ -1,0 +1,93 @@
+.top {
+	background-color:#bde0fe;
+	margin-top: 0px;
+	position: relative;
+	padding-top: 100px;
+}
+body {
+	margin: 0px;
+	margin-top: 0px;
+	text-align: center;
+	font-family:  Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+h1 {margin: 0 auto 0 auto;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 5.625rem;
+	margin-top: 50px;
+	color: #5aa9e6;
+	line-height: 2;
+}
+h2 {
+	margin: 0 auto 0 auto;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 2.5em;
+	color: #5aa9e6;
+	font-weight: normal;
+}
+h3 {margin: 0 auto 0 auto;
+	font-family:  Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: #7fc8f8;
+}
+
+p {
+	margin: 50px;
+	line-height: 2;
+}
+hr {
+	border: dotted #bde0fe 6px;
+	border-bottom: none;
+	width: 4%;
+	margin: 100px auto;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 0.75rem;
+	padding: 20px 0;
+}
+
+.intro {
+	margin: 50px;
+	text-align: left;
+}
+
+.top-cloud {
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+.frontend{
+	width: 400px;
+	height: 400px;
+}
+.stock {width: 10rem;
+float: left;
+margin-right: 30px;
+}
+
+.subtitle {
+	font-size: 25px;
+}
+.boy-row {
+	width: auto;
+	margin: 100px auto 100px auto;
+	text-align:left;
+}
+
+.Conclusion {
+	text-align: center;
+}
+
+.top-container {
+	background-color: #E4F9F5;
+	padding-top: 100px;
+}
+
+.middle-container {
+	margin: 100px 0;
+}
+
+.bottom-container {
+	background-color: #bde0fe;
+	padding: 50px 0 20px;
+}
